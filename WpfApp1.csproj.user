@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="BOOKLIST.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin_Bank.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin_Book.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin_Employee_pay.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin_Employes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BOOKLIST.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BOOKS.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Delete.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Edit_employee_information.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Edit_Member_information.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Employee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmployeeWALLET.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login_members.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="mainpayment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MEMBER.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="memberBOOKS.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="memberWallet.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MyBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Share.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="user.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wallet.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
